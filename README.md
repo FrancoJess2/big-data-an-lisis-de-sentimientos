@@ -6,3 +6,4 @@ En este proyecto se abarcan servicios de la Nube AWS como Aws Comprehend, Aws Tr
 Se adjuntar imagén de la Arquitectura
 
 ![ArquiBigData-ARQ V3 drawio](https://github.com/user-attachments/assets/36f89b90-34f5-4d61-b091-f20498921e23)
+
